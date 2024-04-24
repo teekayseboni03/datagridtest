@@ -1,24 +1,18 @@
 import logo from './logo.svg';
+
 import './App.css';
+import React,{useEffect, useState} from 'react';
+import {Box, Typography, useTheme} from '@mui/material'
+import {DataGrid} from '@mui/x-data-grid';
+//import data from './dataSource'
+import HRAccess from './components/HRAccess/HRAccess';
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   
+      <HRAccess/>
+    
   );
 }
 

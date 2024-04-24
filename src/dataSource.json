@@ -1,0 +1,37 @@
+[
+    {
+      "name": "John",
+      "surname": "Doe",
+      "email": "john.doe@gmail.com",
+      "emp_type": "Staff",
+      "Emp_ID": 1
+    },
+    {
+      "name": "Jane",
+      "surname": "Smith",
+      "email": "jane.smith@gmail.com",
+      "emp_type": "Manager",
+      "Emp_ID": 2
+    },
+    {
+      "name": "Alice",
+      "surname": "Johnson",
+      "email": "alice.johnson@gmail.com",
+      "emp_type": "HR",
+      "Emp_ID": 3
+    },
+    {
+      "name": "Michael",
+      "surname": "Williams",
+      "email": "michael.williams@gmail.com",
+      "emp_type": "Staff",
+      "Emp_ID": 4
+    },
+    {
+      "name": "Emily",
+      "surname": "Brown",
+      "email": "emily.brown@gmail.com",
+      "emp_type": "Manager",
+      "Emp_ID": 5
+    }
+]
